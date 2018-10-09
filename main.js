@@ -1,4 +1,6 @@
-var pierwsza = 10;
-var druga = 20;
-var trzecia = 30; 
-var liczby = [10,20,30];
+let pierwsza = 10;
+let druga = 20;
+let trzecia = 30; 
+let liczby = ['pierwsza', 'druga', 'trzecia'];
+
+console.log(liczby);
